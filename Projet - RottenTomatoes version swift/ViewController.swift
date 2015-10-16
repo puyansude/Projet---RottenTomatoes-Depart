@@ -20,7 +20,7 @@
 //  Alain Boudreault, aboudrea@cstj.qc.ca
 //
 //  ============================================================================================
-//  Version de départ - À placer sur github - en cours ... 123
+//  Version de départ - disponible via sur github à: https://github.com/puyansude/Projet---RottenTomatoes-Depart
 
 
 import UIKit
